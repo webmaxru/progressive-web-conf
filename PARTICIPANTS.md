@@ -18,7 +18,7 @@ The list of folks who showed interest on [Twitter thread](https://twitter.com/we
 - [Diego (diekus) González-Zúñiga](https://twitter.com/diekus), Samsung Internet
 - [Peter O'Shaughnessy](https://twitter.com/poshaughnessy), Samsung Internet
 
-Please, send a PR to add yourself if you want to correct/update this list!
+Everyone is invited to volunteer! Please, send a PR if you want to add/update/delete yourself from this list.
 
 
 
