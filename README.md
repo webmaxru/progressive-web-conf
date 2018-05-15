@@ -7,9 +7,8 @@ Please, start the reading from the [Motivation](https://github.com/webmaxru/prog
 Please, review, comment ang join the movement if you wish! If you just want to keep yourself updated about the event, [follow my Twitter](https://twitter.com/webmaxru) and/or join the open [PWA slack team](https://bit.ly/go-pwa-slack)
 
 ---
-This repo is maintained by Maxim "PWAngelist" Salnikov
+Maxim "PWAngelist" Salnikov
 
 Ping me via:
 - https://twitter.com/webmaxru
 - salnikov@gmail.com
-- PWA slack team
