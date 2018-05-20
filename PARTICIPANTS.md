@@ -17,6 +17,7 @@ The list of folks who showed interest on [Twitter thread](https://twitter.com/we
 - [Daniel Appelquist](https://twitter.com/torgo), Samsung Internet
 - [Diego (diekus) González-Zúñiga](https://twitter.com/diekus), Samsung Internet
 - [Peter O'Shaughnessy](https://twitter.com/poshaughnessy), Samsung Internet
+- [Simona Cotin](https://twitter.com/simona_cotin), Microsoft
 
 Everyone is invited to volunteer! Please, send a PR if you want to add/update/delete yourself from this list.
 
