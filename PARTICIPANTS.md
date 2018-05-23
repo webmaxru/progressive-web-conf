@@ -13,7 +13,7 @@ The list of folks who showed interest on [Twitter thread](https://twitter.com/we
 - [Andreas Bovens](https://twitter.com/andreasbovens), Mozilla
 - [Jonathan Fielding](https://twitter.com/JonthanFielding)
 - [Jason Grigsby](https://twitter.com/grigs), Cloud Four
-
+- [Thomas Steiner](https://twitter.com/tomayac), Google
 - [Daniel Appelquist](https://twitter.com/torgo), Samsung Internet
 - [Diego (diekus) González-Zúñiga](https://twitter.com/diekus), Samsung Internet
 - [Peter O'Shaughnessy](https://twitter.com/poshaughnessy), Samsung Internet
