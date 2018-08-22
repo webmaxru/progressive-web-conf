@@ -20,6 +20,7 @@ The list of folks who showed interest on [Twitter thread](https://twitter.com/we
 - [Simona Cotin](https://twitter.com/simona_cotin), Microsoft
 - [Jad Joubran](https://twitter.com/JoubranJad), Self-employed
 - [AMahdy Abdelaziz](https://twitter.com/amahdy7), Vaadin
+- [Marta Wiśniewska](https://twitter.com/MartaW_PL), PWA Fire
 
 Everyone is invited to volunteer! Please, send a PR if you want to add/update/delete yourself from this list.
 
