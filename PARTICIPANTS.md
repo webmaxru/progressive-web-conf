@@ -22,6 +22,8 @@ The list of folks who showed interest on [Twitter thread](https://twitter.com/we
 - [AMahdy Abdelaziz](https://twitter.com/amahdy7), Vaadin
 - [Andrzej Mazur](https://twitter.com/end3r), Enclave Games
 - [Marta Wiśniewska](https://twitter.com/MartaW_PL), PWA Fire
+- [Jenny Gove](https://twitter.com/jennylg), Google
+
 
 Everyone is invited to volunteer! Please, send a PR if you want to add/update/delete yourself from this list.
 
