@@ -24,6 +24,7 @@ The list of folks who showed interest on [Twitter thread](https://twitter.com/we
 - [Marta Wiśniewska](https://twitter.com/MartaW_PL), PWA Fire
 - [Jenny Gove](https://twitter.com/jennylg), Google
 - [Christian Liebel](https://twitter.com/christianliebel), Thinktecture
+- [Majid Hajian](https://twitter.com/mhadaily), Telia
 
 Everyone is invited to volunteer! Please, send a PR if you want to add/update/delete yourself from this list.
 
